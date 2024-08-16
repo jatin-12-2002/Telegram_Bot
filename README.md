@@ -1,4 +1,4 @@
-# Telagram Bot using Gemini-API
+# Telegram Bot using Gemini-API
 
 
 ## Prerequisites
@@ -12,7 +12,7 @@ To follow this tutorial, you will need:
 
 
 # Installation
-To set up the Medical ChatBot locally, follow these steps:
+To set up the Telegram Bot locally, follow these steps:
 
 ### Step-1: Clone the repository to your local machine:
 ```bash
